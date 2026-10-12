@@ -2,6 +2,12 @@
 
 ## Phase 1 – Business Understanding & Data Foundation
 
+![Project Overview](Images/Icons/Overview.png)
+![Project Overview](Images/Icons/filter.png)
+![Project Overview](Images/Icons/Actitvity.png)
+![Project Overview](Images/Icons/Welcom.png)
+
+
 ---
 
 ## 📌 Project Overview
